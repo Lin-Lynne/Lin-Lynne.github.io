@@ -40,6 +40,6 @@ It's my first personal webpage.
 </center>
 
 - **Music**
-Taylor Swift
-Lauv
-Madilyn
+  Taylor Swift
+  Lauv
+  Madilyn
