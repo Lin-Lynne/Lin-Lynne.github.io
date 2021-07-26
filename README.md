@@ -1,7 +1,5 @@
-# Lin-Lynne.github.io
-# welcome to my webpage [Lin-Lynne](https://lin-lynne.github.io "努力学习生信的搬砖人")
+Welcome to my webpage [Lin-Lynne](https://lin-lynne.github.io "努力学习生信的搬砖人").  
 [TOC]
-
 # Lin-Lynne.github.io
 It's my first personal webpage.
 
